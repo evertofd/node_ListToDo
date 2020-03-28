@@ -1,0 +1,10 @@
+## APLICACIÓN LISTA DE TAREAS ##
+
+
+RECUERDEN INSTALAR LOS PAQUETES DE node
+
+###
+
+npm install
+
+###
